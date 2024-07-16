@@ -2,9 +2,6 @@
 
 This project uses GPT-2 to generate, refine, and evaluate instructional data using a Monte Carlo Tree Search (MCTS) approach. The aim is to create high-quality instructional data through several steps, including content transformation, instruction generation, iterative refinement, and cleaning.
 
-Project Structure
-Main Code
-The main code consists of several key components and functions:
 
 # MCTS and Node Class Implementation:
 
